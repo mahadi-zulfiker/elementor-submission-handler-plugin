@@ -50,7 +50,7 @@ Modify the **submission handler function** in the plugin’s core file to implem
 
 ## Contributing
 Feel free to fork this repository, submit pull requests, or report issues.  
-For contributions and support, contact **amitavrchy01@gmail.com**.  
+For contributions and support, contact **mahade.adib45@gmail.com**.  
 
 ---
 
